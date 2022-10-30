@@ -3,11 +3,6 @@
 @tailwind utilities;
 
 
-body{
-  zoom: 70%;
-  height: 20vh;  
-  
-}
 /* Active Navigation Link */
 
 .active {
